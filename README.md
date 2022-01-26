@@ -1,4 +1,4 @@
-# CPE-322
+# CPE 322
 ## Written by Kevin Finck
 
 ~~You're telling me an engineer designed this rice~~
