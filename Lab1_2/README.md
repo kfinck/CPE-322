@@ -4,7 +4,7 @@
 ## All work was done on a pc through an ssh connection to the pi.
 
 # hostname and env
-![Hostname/env](Lab1,2 pics/hostname_env.jpg)
+![Hostname/env](Lab1,2 pics/hostname_env.JPG)
 
 # ps, pwd and clone
 ![ps/pwd/clone](Lab1,2 pics/ps_pwd_clone.JPG)
