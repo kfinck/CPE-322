@@ -33,8 +33,5 @@
 # battery.py
 ![battery](pics/battery.JPG)
 
-# battery.py
-![battery](pics/battery.JPG)
-
 # documentstats.py
 ![document](pics/document.JPG)
