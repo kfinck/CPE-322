@@ -4,7 +4,7 @@
 ## All work was done on a pc through an ssh connection to the pi.
 
 # Stevens
-![Stevens](pics/Stevens.JPG)
+![Stevens](pics/stevens.JPG)
 
 # Mycpu
 ![Mycpu](pics/mycpu.JPG)
