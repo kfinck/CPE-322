@@ -7,7 +7,7 @@
 ![Hostname/env](Lab1,2 pics/hostname_env.JPG)
 
 # ps, pwd and clone
-![ps/pwd/clone](Lab1,2vpics/ps_pwd_clone.JPG)
+![ps/pwd/clone](Lab1,2 pics/ps_pwd_clone.JPG)
 
 # cd, ls and df
 ![cd/ls/df](Lab1,2 pics/ls_df.JPG)
