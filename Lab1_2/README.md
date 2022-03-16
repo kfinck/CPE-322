@@ -4,28 +4,28 @@
 ## All work was done on a pc through an ssh connection to the pi.
 
 # hostname and env
-![Hostname/env](Lab1,2_pics/hostname_env.JPG)
+![Hostname/env](Lab1,2 pics/hostname_env.JPG)
 
 # ps, pwd and clone
-![ps/pwd/clone](Lab1,2_pics/ps_pwd_clone.JPG)
+![ps/pwd/clone](Lab1,2vpics/ps_pwd_clone.JPG)
 
 # cd, ls and df
-![cd/ls/df](Lab1,2_pics/ls_df.JPG)
+![cd/ls/df](Lab1,2 pics/ls_df.JPG)
 
 # nano
-![nano](Lab1,2_pics/nano.JPG)
+![nano](Lab1,2 pics/nano.JPG)
 
 # cat, cp, mv and rm
-![cat/cp/mv/rm](Lab1,2_pics/cat_cp_mv_rm.JPG)
+![cat/cp/mv/rm](Lab1,2 pics/cat_cp_mv_rm.JPG)
 
 # man uname
-![man_uname](Lab1,2_pics/man_uname.JPG)
+![man_uname](Lab1,2 pics/man_uname.JPG)
 
 # uname -a
-![uname a](Lab1,2_pics/uname_a.JPG)
+![uname a](Lab1,2 pics/uname_a.JPG)
 
 # ifconfig and ping localhost
-![ifconfig/ping](Lab1,2_pics/ifconfig_ping.JPG)
+![ifconfig/ping](Lab1,2 pics/ifconfig_ping.JPG)
 
 # netstat
-![netstat](Lab1,2_pics/netstat.JPG)
+![netstat](Lab1,2 pics/netstat.JPG)
